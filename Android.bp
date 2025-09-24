@@ -15342,6 +15342,7 @@ cc_prebuilt_library_shared {
     system_ext_specific: true,
 }
 
+/*
 cc_prebuilt_library_shared {
     name: "libimscamera_jni",
     owner: "motorola",
@@ -15369,6 +15370,7 @@ cc_prebuilt_library_shared {
     prefer: true,
     system_ext_specific: true,
 }
+*/
 
 cc_prebuilt_library_shared {
     name: "libimsmedia_jni",
